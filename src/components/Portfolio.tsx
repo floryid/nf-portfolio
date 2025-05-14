@@ -19,7 +19,7 @@ const Portfolio: React.FC = () => {
       id: 1,
       title: 'K3 Safety Implementation for Mining Operation',
       category: 'safety',
-      image: '/public/images/k3safety.jpg',
+      image: '/images/k3safety.jpg',
       description: 'Comprehensive safety program implemented for a large-scale mining operation. Included risk assessment, safety protocols, emergency response planning, and regular safety drills.',
     },
     {
